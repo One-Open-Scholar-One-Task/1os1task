@@ -7,3 +7,11 @@ reply to the proposal with (a link to) the results and optionally also the hasht
 
 This repository collected task proposals, allowing them to be easily found. Moreover, results
 can be tracked in this repository.
+
+Below is a list of tasks you can finish in 5-15 minutes, making an open scientist happy (newest on top).
+Click on the link to the tweet and get started:
+
+* [my #1os1task is adding *one* physicochemical property (boiling point, melting point, pKa, etc) to 
+@wikidata: https://scholia.toolforge.org/chemical/missing](https://twitter.com/egonwillighagen/status/1267413480346472448)
+* [Measure the "closed access cost" of a publisher: * go to its search page * search for an important topic (e.g. "social distancing" or "climate change" * click to each of the top 25 hits to see  the cost * tweet the numpaywalled+sum25 cost You MUST be outside a University login](https://twitter.com/petermurrayrust/status/1267412069399302144)
+* [#1os1task is to go to https://dissem.in, search your own name, pick a paper which was not yet made green #openaccess and upload a version of it to Zenodo or HAL (ideally the preprint, with #ccby license).](https://twitter.com/nemobis/status/1267391178359652352)
