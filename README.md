@@ -11,6 +11,7 @@ can be tracked in this repository.
 Below is a list of tasks you can finish in 5-15 minutes, making an open scientist happy (newest on top).
 Click on the link to the tweet and get started:
 
+* [Explain why a #Fullbright is not an award (@wikidata) needs dividing in many facets. What is it and, how do we go from a monolithic @Wikipedia category to its distinct programs in Wikidata ?](https://twitter.com/GerardMeijssen/status/1267700426071330816)
 * [my #1os1task is adding *one* physicochemical property (boiling point, melting point, pKa, etc) to 
 @wikidata: https://scholia.toolforge.org/chemical/missing](https://twitter.com/egonwillighagen/status/1267413480346472448)
 * [Measure the "closed access cost" of a publisher: * go to its search page * search for an important topic (e.g. "social distancing" or "climate change" * click to each of the top 25 hits to see  the cost * tweet the numpaywalled+sum25 cost You MUST be outside a University login](https://twitter.com/petermurrayrust/status/1267412069399302144)
