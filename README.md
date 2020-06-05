@@ -12,6 +12,7 @@ Below is a list of tasks you can finish in 5-15 minutes, making an open scientis
 Click on the link to the tweet and get started:
 
 * [Python programmer with access to a MS Windows machine that has Docker installed? The #CommonWL reference runner (cwltool) need help testing & fixing code paths that appveyor can't run. #1os1task](https://twitter.com/biocrusoe/status/1268778814718578688)
+* [here's another #1os1task task, specially for the @EUNanoSafety community. Got a publication out with a data set in the Supp Info as Excel, CSV, etc and has an open license (in whatever format)? Tweet it with the #1os1task hashtag and the DOI of the paper and/or data set](https://twitter.com/egonwillighagen/status/1267755137696780288)
 * [Explain why a #Fullbright is not an award (@wikidata) needs dividing in many facets. What is it and, how do we go from a monolithic @Wikipedia category to its distinct programs in Wikidata ?](https://twitter.com/GerardMeijssen/status/1267700426071330816)
 * [my #1os1task is adding *one* physicochemical property (boiling point, melting point, pKa, etc) to 
 @wikidata: https://scholia.toolforge.org/chemical/missing](https://twitter.com/egonwillighagen/status/1267413480346472448)
